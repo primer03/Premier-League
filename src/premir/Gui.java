@@ -11,20 +11,6 @@ import javax.swing.table.JTableHeader;
 import team.*;
 import java.util.List;
 
-
-
-
-
-
-
-
-
-
-///gregiergioerge
-///gregergerg
-
-
-
 public class Gui extends JFrame implements ActionListener {
     String dataTeamtol[][];
     JTextField TextScore[][] = new JTextField[38][10];
@@ -42,7 +28,7 @@ public class Gui extends JFrame implements ActionListener {
     JLabel lateam = new JLabel();
     JButton btnnew;
     String Datamarray[][];
-
+//8
     public Gui() throws FileNotFoundException {
         mathxd = new Match[38][10];
         readfile.setPathfile("data/team.dat");
