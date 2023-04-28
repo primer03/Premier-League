@@ -12,6 +12,19 @@ import team.*;
 import java.util.List;
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 public class Gui extends JFrame implements ActionListener {
     String dataTeamtol[][];
     JTextField TextScore[][] = new JTextField[38][10];
