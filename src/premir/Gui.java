@@ -11,20 +11,6 @@ import javax.swing.table.JTableHeader;
 import team.*;
 import java.util.List;
 
-
-
-
-
-
-
-
-
-
-
-///gregergerg
-
-
-
 public class Gui extends JFrame implements ActionListener {
     String dataTeamtol[][];
     JTextField TextScore[][] = new JTextField[38][10];
